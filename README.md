@@ -18,13 +18,13 @@ The BMR calculation is based on the **Harris-Benedict** equation, which varies b
 ### For Men:
 
 \[
-\text{BMR} = 88.362 + (13.397 \times \text{weight in kg}) + (4.799 \times \text{height in cm}) - (5.677 \times \text{age in years})
+BMR=66.4730 + 13.7516 x weight in kg + 5.0033 x height in cm – 6.7550 x age in years
 \]
 
 ### For Women:
 
 \[
-\text{BMR} = 447.593 + (9.247 \times \text{weight in kg}) + (3.098 \times \text{height in cm}) - (4.330 \times \text{age in years})
+BMR=655.0955 + 9.5634 x weight in kg + 1.8496 x height in cm – 4.6756 x age in years
 \]
 
 ## How to Use
@@ -36,3 +36,26 @@ The BMR calculation is based on the **Harris-Benedict** equation, which varies b
 ## Demo
 
 You can try out the BMR Calculator online [https://selenkarakaya.github.io/BMR-Calculator_BMI-Calculator/](#).
+
+## Installation
+
+### Run
+
+`npm start`
+
+## Technologies Used
+
+- **HTML/CSS**: For structure and styling of the tool.
+- **JavaScript**: For calculating the BMR and handling user interactions.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to submit a pull request or open an issue.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me at `selennurkarakayaa@gmail.com`.
+
+---
+
+Thanks for using the BMR Calculator!
