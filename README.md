@@ -35,7 +35,7 @@ BMR=655.0955 + 9.5634 x weight in kg + 1.8496 x height in cm – 4.6756 x age in
 
 ## Demo
 
-You can try out the BMR Calculator online [https://selenkarakaya.github.io/BMR-Calculator_BMI-Calculator/]([#](https://selenkarakaya.github.io/BMR-Calculator_BMI-Calculator/)).
+You can try out the BMR Calculator online ([https://selenkarakaya.github.io/BMR-Calculator_BMI-Calculator/]).
 
 ## Installation
 
